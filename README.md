@@ -1,27 +1,24 @@
-# Dino Game
-This project is a clone of the Google Dino game, created using JavaScript, HTML, and CSS. In this simple yet engaging game, you control a dinosaur that must jump over cactus to keep running. The game features a scoring system that tracks your progress as you navigate through the obstacles and a Game Over feature too. 
+# Dino Game 🐲
+This project is a clone of the Google Dino game, created using JavaScript, HTML, and CSS. In this simple yet engaging game, you control a dinosaur that must jump over cactus to keep running. The game features a scoring system that tracks your progress as you navigate through the obstacles and a Game Over feature too. 🌟
 
-## Screenshots
-![img1](https://github.com/user-attachments/assets/add277f4-4c4c-4b49-ac42-be26ff111b64)
+## Technologies Used ⚙️
 
-![img2](https://github.com/user-attachments/assets/cc5f3766-44be-4e4e-b11f-54eab0e2d5f9)
+- **Frontend**: 
+  - HTML 🖊
+  - CSS 🎨
+  - JavaScript ⚒
+- **Tools**:
+  - Vs Code for coding 💻
 
-![img3](https://github.com/user-attachments/assets/501fdd76-5350-4f31-89ea-522fbc055f6b)
+## Contact 📫
 
+Feel free to reach out to me:
 
+- Email: prathamsingh19102003@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/prathamsingh19102003](https://www.linkedin.com/in/prathamsingh19102003)
+- GitHub: [https://github.com/prathamsingh19](https://github.com/prathamsingh19)
+- Instagram: [https://www.instagram.com/prathamsingh.__/](https://www.instagram.com/prathamsingh.__/)
 
+---
 
-
-
-## Technologies Used
-
-This project is created by using following
-technologies:
-
-- Visual Studio Code
-- HTML
-- CSS
-- JavaScript
-
-
-## THANK YOU
+Thank you 👋
